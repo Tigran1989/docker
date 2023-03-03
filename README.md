@@ -1,4 +1,4 @@
-# dockeir
+# docker
 
 Log into Portainer and Create a Container
 Portainer is running at our lab's IP address on port 8080, so head there in a browser (http://<LAB_IP>:8080).
